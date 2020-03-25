@@ -1,0 +1,23 @@
+:root{
+    --header-color:#204051;
+}
+header{
+    background-color: var(--header-color);
+}
+body{
+    margin: auto;
+    text-align: center;
+    background-color: #3b6978;
+}
+h1{
+    text-align: center;
+}
+img{
+    max-width: 90%;
+    height: auto;
+}
+article{
+    width: 900px;
+    margin: auto;
+    background-color: #cae8d5;
+}
